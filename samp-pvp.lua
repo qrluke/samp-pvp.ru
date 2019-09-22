@@ -8,12 +8,8 @@ function sampev.onShowTextDraw(id, data)
   if id == 0 then
     i = require 'inspect'
     data["text"] = "~b~~h~Samp-Pvp.Ru"
-    data["position"]["x"] = data["position"]["x"] + 41
-		data["position"]["y"] = data["position"]["y"] - 7
+    data["position"]["x"] = data["position"]["x"] 
+		data["position"]["y"] = data["position"]["y"] 
     return {id, data}
   end
 end
-function sampev.onSendPickedUpPickup(id)
-print(id)
-end
-
