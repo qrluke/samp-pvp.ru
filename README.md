@@ -1,9 +1,10 @@
 # samp-pvp.lua
+A **[moonloader](https://gtaforums.com/topic/890987-moonloader/)** script that changes **[Samp-Rp](https://samp-rp.ru)**'s logo to custom one (**[gta samp](https://sa-mp.com/)**).
 
-**До:**  
+**Before:**  
 ![](https://github.com/qrlk/samp-pvp.ru/raw/master/screens/2.png)  
-**После:**  
+**After:**  
 ![](https://github.com/qrlk/samp-pvp.ru/raw/master/screens/1.png)
 
 
-**Требования:** [CLEO 4+](http://cleo.li/?lang=ru), [SAMPFUNCS 5.3.3](https://blast.hk/threads/17/), [MoonLoader](https://blast.hk/threads/13305/), [SAMP.Lua](https://blast.hk/threads/14624/).
+**Deps:** [CLEO 4+](http://cleo.li/?lang=ru), [SAMPFUNCS 5+](https://blast.hk/threads/17/), [SAMP.Lua](https://blast.hk/threads/14624/).
